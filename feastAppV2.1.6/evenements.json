@@ -1,0 +1,83 @@
+[
+  {
+    "title": "festiglace",
+    "type": "culturel",
+    "location": "ouagadougou",
+    "date": "2025-07-07",
+    "time": "18:00",
+    "price": 500.0,
+    "capacity": 10,
+    "description": "Événement culturel - festiglace",
+    "inscrits": [],
+    "staff": [
+      {
+        "nom": "hermine",
+        "rôle": "staffAccueil",
+        "contact": "hermine@gmail.com"
+      }
+    ],
+    "image_path": null,
+    "created_at": "2025-06-20 00:22:36",
+    "id": "63c83e33-c052-405c-bac1-f01b0229ead1"
+  },
+  {
+    "title": "festipizza",
+    "type": "culturel",
+    "location": "ouaga",
+    "date": "2025-07-07",
+    "time": "18:00",
+    "price": 500.0,
+    "capacity": 5,
+    "description": "Événement culturel - festipizza",
+    "inscrits": [],
+    "staff": [
+      {
+        "nom": "hermine",
+        "rôle": "staffAccuein",
+        "contact": "hermine@gmail.com"
+      }
+    ],
+    "image_path": null,
+    "created_at": "2025-06-20 00:25:57",
+    "id": "05524526-9413-462d-b875-45f3f28f2e1f"
+  },
+  {
+    "title": "FESTISTUDENT",
+    "type": "Culturelle",
+    "location": "Koudougou",
+    "date": "2025-07-23",
+    "time": "19:15",
+    "price": 2500.0,
+    "capacity": 1400,
+    "description": "Événement Culturelle - FESTISTUDENT",
+    "inscrits": [
+      {
+        "nom": "NANA",
+        "email": "nana@bit.bf",
+        "telephone": "+226 03030303",
+        "date_reservation": "2025-06-20 09:03",
+        "status": "Confirmée"
+      }
+    ],
+    "staff": [
+      {
+        "nom": "ILBOUDO John",
+        "rôle": "OCP",
+        "contact": "john@gmail.com"
+      },
+      {
+        "nom": "Ben",
+        "rôle": "OCVP",
+        "contact": "ben10@gmail.com"
+      },
+      {
+        "nom": "Cheick",
+        "rôle": "log&site",
+        "contact": "cheick@bit.bf"
+      }
+    ],
+    "image_path": null,
+    "created_at": "2025-06-20 08:41:17",
+    "id": "e0c3f022-943f-408c-910b-65ea1cf90447"
+  }
+]
